@@ -1,0 +1,19 @@
+Podocyte	> Chen et al. JASN 2019	NPHS1	NPHS2
+Proximal_S1_cell	> Chen et al. JASN 2019	SLC5A2	SLC22A6
+Proximal_S2_cell	> Chen et al. JASN 2019 SLC22A6
+Proximal_S3_cell	> Chen et al. JASN	AGT
+All_proximal_tubule	> Chen et al. JASN	SLC34A1	LRP2
+DTL_type1_cell	> Chen et al. JASN	SLC14A2
+DTL_type2_cell	> Chen et al. JASN	SLC14A2
+DTL_type3_cell	> Chen et al. JASN	SLC14A2
+Ascending_thin_limb_cell	> Chen et al. JASN	CLCNKA
+MTAL_limb_cell	> Chen et al. JASN	SLC12A1	UMOD
+CTAL_cell	> Chen et al. JASN	SLC12A1	UMOD
+Macula_densa_cel	> Chen et al. JASN	SLC12A1	OXTR	NOS1
+Distal_convoluted_tubule_cell	> Chen et al. JASN	SLC12A3
+CNT_cell	> Chen et al. JASN	AQP2	SCNN1G	CALB1
+PC_CCD	> Chen et al. JASN	AQP2	SCNN1G
+PC_OMCD	> Chen et al. JASN	AQP2	SCNN1G
+TYPEA_IC	> Chen et al. JASN	SLC4A1
+TYPEB_IC	> Chen et al. JASN	SLC26A4
+IMCD_cell	> Chen et al. JASN	AQP2	SLC14A2

@@ -1,0 +1,30 @@
+EPC	Epithelial Cells (unassigned)	SPATA22	CMC2	PAMR1
+POD	Podocytes	PLA2R1	NPHS2	CLIC5	NPHS1
+PT-1	Proximal Tubule Epithelial Cells (S1/S2)	SLC5A12	CUBN	LRP2	SLC13A1
+PT-2	Proximal Tubule Epithelial Cells (S2)	DLGAP1	ACSM3	LRP2	SLC13A1
+PT-3	Proximal Tubule Epithelial Cells - Stress/Inflam	IL36B	SLC26A3	CUBN	MIOX	GPX3 
+PT-4	Proximal Tubule Epithelial Cells - Fibrinogen+ (S3)	FGA	FGB	LRP2	FTL	MIOX
+PT-5	Proximal Tubule Epithelial Cells (S3)	PDZK1IP1	MT1G	AQP1	GATM	GPX3	FTL
+DTL	Decending thin Limb	VCAM1	CPE	AQP1	ID1	SPP1	CRYAB
+ATL-1	Thin ascending limb	CLDN1	AKR1B1	TACSTD2	CLDN10
+ATL-2	Thin ascending limb	G0S2	EMP1	CLDN10	MT2A	GADD45B
+ATL-3	Thin ascending limb	CLDN10-AS1	SLC16A7
+TAL-1	Thick Ascending Limb	PP7080	KNG1	CLCNKA	SLC12A1	UMOD
+TAL-2	Thick Ascending Limb	ENOX1	STK32B	CASR	SLC12A1	UMOD
+DCT	Distal Convoluted Tubule	EGF	TRPM6	TMEM52B	SLC12A3
+CNT	Connecting Tubule	HSD11B2	LINC01099	CALB1	SLC8A1
+PC-1	Collecting system - Principal Cells (cortex)	LINC01482	KSR2	AQP2
+PC-2	Collecting system - PCs - Stressed Dissoc Subset	FOS	DNAJB1	JUN
+PC-3	Collecting Duct - Principal Cells (medulla)	AQP3	FXYD4	KRT19	AQP2
+IC-A2	Collecting Duct - Intercalated Cells Type A (medulla)	FOXI1	CALCA	KIT	TMEM213	ATP6V0D2	SLC26A7
+IC-A1	Collecting Duct - Intercalated Cells Type A (cortex)	SLC4A1	WBSCR17	ATP6V0D2	SLC26A7
+IC-B	Collecting Duct - Intercalated Cells Type B	SLC26A4	SLC4A9	ATP6V0D2
+EC-1	Endothelial Cells - glomerular capillaries	ITGA8	NRG3	HECW2	SLCO2A1	EMCN	FLT1
+EC-2	Endothelial Cells - AVR	DNASE1L3	EMCN	PECAM1 
+EC-3	Endothelial Cells - AEA & DVR 	AQP1	VIM	SLC14A1	CLDN5 	PALMD	CD93	EMCN	PECAM1
+EC-4	Endothelial Cells (unassigned)	PROX1	MMRN1	SEMA3A
+MC	Mesangial Cells	POSTN	ROBO1	ITGA8	AGTR1	PDGFRB	ZEB2
+vSMC/P	Vascular Smooth Muscle Cells and pericytes	MYH11	MCAM	NTRK3	TAGLN	ACTA2
+INT	Interstitium	C7	MGP	DCN	ZEB2
+Unk	Unknown - Novel PT CFH+ Subpopulation (S2)	CFH	MGAT4C	ALDH1A2	KCNT2
+IMM	Immune Cells - Macrophages	IL7R	CD163
